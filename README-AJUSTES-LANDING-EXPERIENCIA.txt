@@ -22,9 +22,3 @@ Preservado:
 - protocolo MRG-XXXXXX
 - botão WhatsApp
 - captura de UTMs
-
-
-OTIMIZAÇÃO FINAL — VERSÃO LEVE:
-- Vídeos compactados em versão leve para mobile/Google Ads.
-- Todos os players de vídeo ajustados para preload="none".
-- O navegador só carrega o vídeo quando a pessoa interage com o player.
